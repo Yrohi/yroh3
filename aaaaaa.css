@@ -1,0 +1,64 @@
+body{
+    background:  linear-gradient(#DECBA4, #3E5151);
+    font-family: Arial;
+    min-height: 100vh;
+    
+}
+.fand{
+    float: right;
+    border-radius: 13px;
+}
+.qotsa{
+    float: right;
+    border-radius: 10px;
+    width: 250px;
+    height: 250px;
+
+}
+.nicky{
+    float: right;
+    border-radius: 13px;
+}
+.knives{
+    float: right;
+    border-radius: 13px;
+    width: 365px;
+    height: 495px;
+}
+.btn{
+    color: aliceblue;
+    font-size: 13px;
+    background: linear-gradient(#BBD2C5, #536976, #292E49);
+    padding: 20px 50px;
+    border-radius: 20px;
+    text-decoration: none;
+    transition: 0.3s;
+}
+.btn:hover{
+color: bisque   
+    
+}
+.wrapper{
+width: 500px;
+background: #fff;
+margin: 0 auto;
+padding: 40px 200px;
+border-radius: 10px;
+min-height: 100vh;
+}
+.menu__link{
+text-decoration: none;
+color: #f0ead3;
+margin-right: 30px;
+font-size: 15px;
+transition: 0.3s;
+padding: 10px 15px;
+border-radius: 10px
+}
+.menu__link:hover{
+color: #BBD2C5;
+background-color: #304a64;
+}
+.menu{
+text-align: center;
+}
